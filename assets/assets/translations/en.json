@@ -1,0 +1,284 @@
+{
+  "app": {
+    "back": "Back",
+    "news": "News",
+    "shop": "Shop",
+    "shop_favorites": "Favorites",
+    "guide": "Guide",
+    "account": "Account",
+    "webshop": "Webshop",
+    "enter_zip_code": "Enter your zip code",
+    "why_zip_code": "So we can show you what is\nhappening nearby",
+    "continue": "Continue",
+    "allow": "Allow",
+    "skip": "Skip",
+    "why_notifications": "Fresh from the stamp. Always the first\nto be notified of the news.",
+    "allow_notifications": "Allow notifications",
+    "allow_gps_location": "Allow location",
+    "load_more": "Load more",
+    "search": "Search",
+    "recent": "Recent",
+    "surrounding": "Neighboring",
+    "municipality_personal": "Personal location",
+    "municipality_gps": "You are here",
+    "no_news_found": "No news found",
+    "no_municipalities_found": "No locations found",
+    "err_news_failed_fetch": "Failed to load news post",
+    "loading": "Loading..",
+    "or_use_gps_location": "Or use GPS location",
+    "err_location_permission": "Location is not allowed",
+    "change_zip_code": "Change zip code",
+    "enter_zip_code_subtitle": "Enter your new zip code here",
+    "change": "Change",
+    "tap_here_to_go_back": "Tap here to go back",
+    "success": "Success!",
+    "try_again": "Try again",
+    "select_location_here": "Select a location here",
+    "call": "Call",
+    "mail": "Mail",
+    "at": "at",
+    "no_description": "No description",
+    "choose_short": "Choose",
+    "choose_long": "Choose",
+    "choose_a_bank": "Choose a bank",
+    "today": "Today",
+    "delivery_moment": "Delivery moment",
+    "pick_up_moment": "Pick up moment",
+    "no_availability": "No timeslots to to choose from.",
+    "asap": "Asap",
+    "suggestions": "Suggestions",
+    "delivery_status": "Delivery status",
+    "close": "Close",
+    "country": "Country",
+    "closed": "Closed",
+    "opening_hours": "Opening hours",
+    "add": "Add",
+    "enter_birth_date": "Enter your birth date",
+    "copied": "Copied",
+    "contact_us": "Contact us",
+    "privacy_statement": "Privacy statement",
+    "disclaimer": "Disclaimer",
+    "user_conditions": "User terms and conditions",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "login_encourage": "Get more out of the app with an account",
+    "or_register": "Or create an account",
+    "or_login": "Or login with an existing account",
+    "ok": "Ok",
+    "submit": "Submit",
+    "is_something_wrong": "Questions? Contact us",
+    "err": {
+      "general": "Something went wrong",
+      "only_use_in_nl": "{appName} only covers the Netherlands",
+      "failed_to_load_municipalities": "Failed to load location",
+      "no_internet": "No internet",
+      "no_internet_detail": "Please check your internet connection and try again."
+    }
+  },
+  "pages": {
+    "about_app": {
+      "title": "About app",
+      "news_source": "News source: ",
+      "version": "App version: "
+    },
+    "news": {
+      "article_publisher": "Article publisher: "
+    }
+  },
+  "tutorial": {
+    "swipe_trough": "You can swipe trough the neighboring municipalities",
+    "selected": "Here you can see the selected municipality",
+    "search": "Here you can search for municipalities"
+  },
+  "location": {
+    "err": {
+      "default": "Fout tijdens het verkrijgen van de locatie toestemming",
+      "service_disabled": "De locatievoorzieningen zijn uitgeschakeld op je apparaat",
+      "permission_denied_forever": "Je hebt aangegeven dat je wil dat de app nooit je locatie bekijkt",
+      "permission_denied": "Je hebt aangegeven dat je niet wil dat de app je locatie bekijkt",
+      "while_retrieving": "Fout tijdens het ophalen van locatie"
+    }
+  },
+  "zipCode": {
+    "err": {
+      "invalid": "Invalid zip code",
+      "not_in_our_system": "{appName} does not cover {locationName} yet."
+    },
+    "skip": "Continue without personal location",
+    "personal_location_is": "Your personal location is: "
+  },
+  "guide": {
+    "no_companies": "No companies found"
+  },
+  "webshop": {
+    "failed_to_load": "Webshops failed to load",
+    "failed_to_load_products": "Products failed to load",
+    "no_content": "{platform} isn't activated in {city} yet.",
+    "no_content_alternative": "Click here for shops in {city}",
+    "this_location": "This location",
+    "polling_payment_status": "Fetching payment status",
+    "option_summary_prefix": "Choice of: ",
+    "option_summary_postfix": " and more.",
+    "go_to_shopping_cart": "Shopping cart",
+    "shopping_cart": "Shopping cart",
+    "subtotal": "Subtotal",
+    "delivery_costs": "Delivery costs",
+    "transaction_costs": "Transaction costs",
+    "transaction_costs_explain": "This payment method charges {cost} transaction costs",
+    "total": "Total",
+    "free": "Free",
+    "checkout": "Checkout",
+    "pay": "Pay {price}",
+    "min_price_not_reached": "{webshopName} only delivers order starting at a minimum orderprice of {minPrice} (excluding delivery costs).",
+    "no_initial_location": "Search for a location to find nearby shops",
+    "complete_checkout": "Bestelling afronden",
+    "contact_information": "Contact information",
+    "shipping_options": "Shipping options",
+    "payment_option": "Payment options",
+    "payment_method": "Payment method",
+    "select_payment_method": "Select payment method",
+    "thanks_for_order": "Thanks for placing an order with us!",
+    "discount": "Discount",
+    "from": "from",
+    "for": "for",
+    "no_products": "No products found",
+    "search_location": "Search location..",
+    "search_products": "Search products..",
+    "search_shops": "Search shops..",
+    "order_success_title": "Order placed!",
+    "order_success_subtitle": "Your order has been places successfully.",
+    "closed_for_pick_up": "Closed for pick up",
+    "closed_for_self_shipping": "Closed for delivery",
+    "opening_times": "Opening hours {shop}",
+    "opening_times_adjusted": "Adjusted opening times",
+    "temporarily_closed": "Temporarily closed",
+    "no_favorites":  "No favorites",
+    "digital_explained": "Digital products/vouchers will be sent via mail",
+    "voucher": "Voucher",
+    "order_nr": "Order number",
+    "date_time_connector": "at",
+    "delivery_moment": "Delivery moment",
+    "pick_up_moment": "Pick up moment",
+    "no_user_orders": "You haven't placed any orders yet.",
+    "disclaimers": {
+      "discount_free_delivery": "",
+      "discount_percentage": "",
+      "discount_bulk": "",
+      "promote": ""
+    },
+    "allergens": {
+      "allergens": "Allergens",
+      "disclaimer": "We always provide you with relevant food information provided to us by restaurants relating to items on their menus. However, in some cases, the information displayed may be incomplete, automatically generated and / or not validated as accurate by the restaurant as yet. Please contact Customer service if you have allergies or intolerances and have questions about any specific menu items.",
+      "1": "Cereals containing gluten (such as barley and oats)",
+      "2": "Crustaceans (such as prawns, crabs and lobsters)",
+      "3": "Eggs",
+      "4": "Fish",
+      "5": "Peanuts",
+      "6": "Soybeans",
+      "7": "Milk (including lactose)",
+      "8": "Nuts (such as almonds, hazelnuts, walnuts, brazil nuts, cashews, pecans, pistachios and macadamia nuts)",
+      "9": "Celery",
+      "10": "Mustard",
+      "11": "Sesame",
+      "12": "Sulphur dioxide and sulphites (if the sulphur dioxide and sulphites are at a concentration of more than ten parts per million)",
+      "13": "Lupin",
+      "14": "Molluscs (such as mussels and oysters)"
+    }
+  },
+  "shipping_option": {
+    "pick_up": "Take away",
+    "self": "Delivery",
+    "courier": "Delivery"
+  },
+  "forms": {
+    "name": {
+      "label": "Name",
+      "required": "Name is required"
+    },
+    "email": {
+      "label": "Email address",
+      "required": "Email address is required",
+      "invalid": "Invalid email address"
+    },
+    "phone_nr": {
+      "label": "Phone number",
+      "required": "Phone number is required",
+      "invalid": "Invalid phone number"
+    },
+    "zip_code": {
+      "label": "Zipcode",
+      "required": "Zipcode is required",
+      "invalid": "Invalid zipcode"
+    },
+    "street": {
+      "label": "Street",
+      "required": "Street is required"
+    },
+    "house_number": {
+      "label": "House number",
+      "required": "House number is required"
+    },
+    "city": {
+      "label": "City",
+      "required": "City is required",
+      "webshop_does_not_deliver": "{webshopName} does not deliver in this city"
+    },
+    "comment": {
+      "label": "Comment",
+      "max_characters": "Comment has to be less then {max} characters."
+    },
+    "password": {
+      "label": "Password",
+      "required": "A password is required",
+      "invalid": "The password has to be at least 8 character"
+    },
+    "password_confirm": {
+      "label": "Password confirmation",
+      "required": "A password confirmation is required",
+      "invalid": "Password don't match"
+    },
+    "company": {
+      "label": "Company"
+    }
+  },
+  "version_support": {
+    "webshop_not_supported": "This version of the app doesn't support the newest webshop updates, update it to keep using it."
+  },
+  "whitelabel": {
+    "nieuwsnl": {
+      "why_gps_location": "Allow the use of your GPS location to automatically\nview news based on your current location.",
+      "about_app_info_line_1": "Dutch news daily, country wide and local from your own communities.",
+      "about_app_info_line_2": "Nieuws.nl is the best site for actualities from your own country."
+    },
+    "hebbes": {
+      "why_gps_location": "Enable location services for the best discounts in your area",
+      "about_app_info_line_1": "",
+      "about_app_info_line_2": ""
+    }
+  },
+  "err": {
+    "deeplink_webshop_not_found": "The webshop you tried to load is not found in the system.",
+    "deeplink_discount_not_found": "The discount you tried to load is not found in the system.",
+    "deeplink_discount_expired": "The discount you tried to load is expired.",
+    "age_restriction_failed": "To order this product you need to be at least {years} old.",
+    "webshop_without_shipping_options": "This webshop has no shipping options configured."
+  },
+  "dates": {
+    "monday":  "Monday",
+    "tuesday":  "Tuesday",
+    "wednesday":  "Wednesday",
+    "thursday":  "Thursday",
+    "friday":  "Friday",
+    "saturday":  "Saturday",
+    "sunday":  "Sunday"
+  },
+  "showcase": {
+    "discount_sheet": {
+      "share": "Share this discount with your friends and family!"
+    },
+    "webshop_favorites": {
+      "favorite": "Add the shop to your favorites"
+    }
+  }
+}

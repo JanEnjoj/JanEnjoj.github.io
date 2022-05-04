@@ -1,0 +1,284 @@
+{
+  "app": {
+    "back": "Terug",
+    "news": "Nieuws",
+    "shop": "Shop",
+    "shop_favorites": "Favorieten",
+    "guide": "Gids",
+    "account": "Account",
+    "webshop": "Webshop",
+    "enter_zip_code": "Voer je postcode in",
+    "why_zip_code": "Zo kunnen we je laten zien wat er zich\nbij jou in de buurt afspeelt",
+    "continue": "Ga verder",
+    "allow": "Toestaan",
+    "skip": "Overslaan",
+    "why_notifications": "Heet van de pers. Altijd als eerste op\nde hoogte van de laatste nieuwtjes.",
+    "allow_notifications": "Notificaties toestaan",
+    "allow_gps_location": "Locatie toestaan",
+    "load_more": "Laad meer",
+    "search": "Zoeken",
+    "recent": "Recent",
+    "surrounding": "Omgeving",
+    "municipality_personal": "Persoonlijke locatie",
+    "municipality_gps": "Je bevind je hier",
+    "no_news_found": "Geen nieuws gevonden",
+    "no_municipalities_found": "Geen locaties gevonden",
+    "err_news_failed_fetch": "Fout tijdens het ophalen van nieuws",
+    "loading": "Laden..",
+    "or_use_gps_location": "Of gebruik GPS locatie",
+    "err_location_permission": "Locatie is niet toegestaan",
+    "change_zip_code": "Postcode wijzigen",
+    "enter_zip_code_subtitle": "Vul hieronder je nieuwe postcode in",
+    "change": "Wijzigen",
+    "tap_here_to_go_back": "Tik hier om terug te gaan",
+    "success": "Gelukt!",
+    "try_again": "Probeer opnieuw",
+    "select_location_here": "Selecteer hier een gemeente",
+    "call": "Bellen",
+    "mail": "Mailen",
+    "at": "om",
+    "no_description": "Geen beschrijving",
+    "choose_short": "Kies",
+    "choose_long": "Kiezen",
+    "choose_a_bank": "Kies een bank",
+    "today": "Vandaag",
+    "delivery_moment": "Bezorgmoment",
+    "pick_up_moment": "Afhaalmoment",
+    "no_availability": "Geen momenten beschikbaar.",
+    "asap": "Zo snel mogelijk",
+    "suggestions": "Suggesties",
+    "delivery_status": "Bezorgstatus",
+    "close": "Sluiten",
+    "country": "Land",
+    "closed": "Gesloten",
+    "opening_hours": "Openingstijden",
+    "add": "Toevoegen",
+    "enter_birth_date": "Voer je geboortedatum in",
+    "copied": "Gekopieerd",
+    "contact_us": "Contact ons",
+    "privacy_statement": "Privacyverklaring",
+    "disclaimer": "Disclaimer",
+    "user_conditions": "Gebruikersvoorwaarden",
+    "login": "Log in",
+    "register": "Aanmelden",
+    "logout": "Uitloggen",
+    "login_encourage": "Haal meer uit de app met een account",
+    "or_register": "Of maak een account aan",
+    "or_login": "Of log in met een bestaand account",
+    "ok": "Okè",
+    "submit": "Verstuur",
+    "is_something_wrong": "Vragen? Contact ons",
+    "err": {
+      "general": "Er is iets fout gegaan",
+      "only_use_in_nl": "{appName} is alleen te gebruiken in Nederland",
+      "failed_to_load_municipalities": "Fout tijdens het inladen van locaties",
+      "no_internet": "Geen internet",
+      "no_internet_detail": "Controleer je internetverbinding en probeer het opnieuw"
+    }
+  },
+  "pages": {
+    "about_app": {
+      "title": "Over app",
+      "news_source": "Nieuwsbron: ",
+      "version": "App versie: "
+    },
+    "news": {
+      "article_publisher": "Bron van artikel: "
+    }
+  },
+  "tutorial": {
+    "swipe_trough": "Je kan door de omliggende gemeentes swipen",
+    "selected": "Hier zie je de geselecteerde gemeente",
+    "search": "Hier kan je gemeentes zoeken"
+  },
+  "location": {
+    "err": {
+      "default": "Fout tijdens het verkrijgen van de locatie toestemming",
+      "service_disabled": "De locatievoorzieningen zijn uitgeschakeld op je apparaat",
+      "permission_denied_forever": "Je hebt aangegeven dat je wil dat de app nooit je locatie bekijkt",
+      "permission_denied": "Je hebt aangegeven dat je niet wil dat de app je locatie bekijkt",
+      "while_retrieving": "Fout tijdens het ophalen van locatie"
+    }
+  },
+  "zipCode": {
+    "err": {
+      "invalid": "Ongeldige postcode",
+      "not_in_our_system": "{appName} is nog niet beschikbaar in {locationName}."
+    },
+    "skip": "Ga verder zonder persoonlijke locatie",
+    "personal_location_is": "Je persoonlijke locatie is: "
+  },
+  "guide": {
+    "no_companies": "Geen bedrijven gevonden"
+  },
+  "webshop": {
+    "failed_to_load": "Er is iets fout gegaan tijdens het inladen van de webshops",
+    "failed_to_load_products": "Fout tijdens het inladen van de producten",
+    "no_content": "{platform} is nog niet actief in {city}.",
+    "no_content_alternative": "Klik hier voor shops in {city}",
+    "this_location": "Deze locatie",
+    "polling_payment_status": "Betaalstatus ophalen",
+    "option_summary_prefix": "Keuze uit: ",
+    "option_summary_postfix": " en meer.",
+    "go_to_shopping_cart": "Winkelmandje",
+    "shopping_cart": "Winkelmand",
+    "subtotal": "Subtotaal",
+    "delivery_costs": "Bezorgkosten",
+    "transaction_costs": "Transactiekosten",
+    "transaction_costs_explain": "Betalen met deze methode kost {cost}",
+    "total": "Totaal",
+    "free": "Gratis",
+    "checkout": "Afrekenen",
+    "pay": "Betaal {price}",
+    "min_price_not_reached": "Je kunt helaas nog niet bestellen. {webshopName} bezorgt bestellingen vanaf een minimum bestelbedrag van {minPrice} (excl. bezorgkosten).",
+    "no_initial_location": "Zoek voor een locatie om shops in de buurt te vinden",
+    "complete_checkout": "Bestelling afronden",
+    "contact_information": "Contactinformatie",
+    "shipping_options": "Verzendopties",
+    "payment_option": "Betaalopties",
+    "payment_method": "Betaalmethode",
+    "select_payment_method": "Selecteer betaalmethode",
+    "thanks_for_order": "Bedankt voor je bestelling!",
+    "discount": "Uw voordeel",
+    "from": "van",
+    "for": "voor",
+    "no_products": "Geen producten gevonden",
+    "search_location": "Zoek locatie..",
+    "search_products": "Zoek producten..",
+    "search_shops": "Zoek shops..",
+    "order_success_title": "Bestelling geplaatst!",
+    "order_success_subtitle": "Uw bestelling is succesvol geplaatst.",
+    "closed_for_pick_up": "Gesloten voor afhalen",
+    "closed_for_self_shipping": "Gesloten voor bezorgen",
+    "opening_times": "Openingstijden {shop}",
+    "opening_times_adjusted": "Aangepaste openingstijden",
+    "temporarily_closed": "Tijdelijk gesloten",
+    "no_favorites":  "Geen favorieten",
+    "digital_explained": "Digitale producten/vouchers ontvangt u per mail",
+    "voucher": "Voucher",
+    "order_nr": "Ordernummer",
+    "date_time_connector": "op",
+    "delivery_moment": "Bezorgmoment",
+    "pick_up_moment": "Afhaalmoment",
+    "no_user_orders": "Je hebt nog geen orders geplaatst.",
+    "disclaimers": {
+      "discount_free_delivery": "Bij het bestellen van minimaal 1 product behorende bij deze actie krijg je bezorging gratis thuisbezorgd.",
+      "discount_percentage": "Elk product behorende bij deze actie heeft {percentage}% korting.",
+      "discount_bulk": "Bij het bestellen van {buy} krijg je er {pay} gratis. Deze actie is vaker te gebruiken in dezelfde bestelling. Je krijgt het goedkoopste product gratis.",
+      "promote": ""
+    },
+    "allergens": {
+      "allergens": "Allergenen",
+      "disclaimer": "We geven je altijd relevante informatie over eten die restaurants aan ons verstrekken met betrekking tot hun menu-items. In sommige gevallen kan de weergegeven informatie echter onvolledig, automatisch gegenereerd en/of nog niet als accuraat gevalideerd zijn door het restaurant. Neem contact op met de Klantenservice als je allergieën of intoleranties hebt of vragen over specifieke menu-items.",
+      "1": "Glutenbevattende granen (tarwe, rogge, gerst, haver, spelt, khorasantarwe/ kamut)",
+      "2": "Schaaldieren",
+      "3": "Eieren",
+      "4": "Vis",
+      "5": "Pinda",
+      "6": "Soya",
+      "7": "Melk (inclusief lactose)",
+      "8": "Noten (amandelen, hazelnoten, walnoten, cashewnoten, pecannoten, paranoten, pistachenoten en macadamianoten)",
+      "9": "Selderij",
+      "10": "Mosterd",
+      "11": "Sesamzaad",
+      "12": "Zwaveldioxide en sulfiet bij concentraties van meer dan 10 mg SO2 per kilo of liter",
+      "13": "Lupine",
+      "14": "Weekdieren"
+    }
+  },
+  "shipping_option": {
+    "pick_up": "Afhalen",
+    "self": "Bezorgen",
+    "courier": "Bezorgen"
+  },
+  "forms": {
+    "name": {
+      "label": "Naam",
+      "required": "Naam is verplicht"
+    },
+    "email": {
+      "label": "Emailadres",
+      "required": "Emailadres is verplicht",
+      "invalid": "Ongeldig Emailadres"
+    },
+    "phone_nr": {
+      "label": "Telefoonnummer",
+      "required": "Telefoon is verplicht",
+      "invalid": "Ongeldig telefoonnummer"
+    },
+    "zip_code": {
+      "label": "Postcode",
+      "required": "Postcode is verplicht",
+      "invalid": "Ongeldige postcode"
+    },
+    "street": {
+      "label": "Straat",
+      "required": "Straat is verplicht"
+    },
+    "house_number": {
+      "label": "Huisnummer",
+      "required": "Huisnummer is verplicht"
+    },
+    "city": {
+      "label": "Plaats",
+      "required": "Plaats is verplicht",
+      "webshop_does_not_deliver": "{webshopName} bezorgt niet in deze plaats"
+    },
+    "comment": {
+      "label": "Opmerking",
+      "max_characters": "Opmerking mag maximaal {args} bevatten."
+    },
+    "password": {
+      "label": "Wachtwoord",
+      "required": "Een wachtwoord is veplicht",
+      "invalid": "Wachtwoord moet minimaal 8 tekens bevatten"
+    },
+    "password_confirm": {
+      "label": "Wachtwoord bevestigen",
+      "required": "Een wachtwoordbevestiging is verplicht",
+      "invalid": "Wachtwoorden komen niet overeen"
+    },
+    "company": {
+      "label": "Bedrijfsnaam"
+    }
+  },
+  "version_support": {
+    "webshop_not_supported": "Deze versie van de app is verouderd, update de app om hem te blijven gebruiken."
+  },
+  "whitelabel": {
+    "nieuwsnl": {
+      "why_gps_location": "Sta locatiegegevens toe als je automatisch\nhet nieuws wilt zien van de gemeente waar je bent.",
+      "about_app_info_line_1": "Dagelijks het Nederlandse nieuws, landelijk en lokaal uit jouw eigen gemeente.",
+      "about_app_info_line_2": "Nieuws.nl is de beste site voor actualiteiten uit eingen land."
+    },
+    "hebbes": {
+      "why_gps_location": "Sta je locatiegegevens toe voor de beste acties van lokale ondernemers",
+      "about_app_info_line_1": "",
+      "about_app_info_line_2": ""
+    }
+  },
+  "err": {
+    "deeplink_webshop_not_found": "De webshop die je hebt geprobeerd te laden is niet bekend in ons systeem.",
+    "deeplink_discount_not_found": "De aanbieding die je hebt geprobeerd te laden is niet bekend in ons systeem.",
+    "deeplink_discount_expired": "De aanbieding die je hebt geprobeerd te laden is helaas verlopen.",
+    "age_restriction_failed": "Om dit product te bestellen moet je minimaal {years} jaar oud zijn.",
+    "webshop_without_shipping_options": "Deze webshop heeft geen bezorg/afhaalopties ingesteld."
+  },
+  "dates": {
+    "monday":  "Maandag",
+    "tuesday":  "Dinsdag",
+    "wednesday":  "Woensdag",
+    "thursday":  "Donderdag",
+    "friday":  "Vrijdag",
+    "saturday":  "Zaterdag",
+    "sunday":  "Zondag"
+  },
+  "showcase": {
+    "discount_sheet": {
+      "share": "Deel deze actie met je familie en vrienden!"
+    },
+    "webshop_favorites": {
+      "favorite": "Druk hier om deze webshop toe te voegen aan je favorieten"
+    }
+  }
+}
